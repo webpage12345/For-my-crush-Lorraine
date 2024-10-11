@@ -4,7 +4,7 @@ $(document).ready(function () {
      */
     var content = [{
         title: "I Have Crush On You!!",
-        desc: "Irish"
+        desc: "Lorraine"
     }, {
         title: "I Have Crush On You!!",
         desc: "I hope you're having a great day! I just wanted to let you know that I've really enjoyed getting to know you. You're an amazing person, and I find myself looking forward to our conversations more and more."
@@ -12,7 +12,7 @@ $(document).ready(function () {
        title: "Be my Last",
        desc: "I truly believe that you could be the one for me, my last and only. I want to cherish every moment with you and build something beautiful together.Would you consider being my last?"
     }, {
-        title: "I love so much",
+        title: "My BFF",
         desc: "I Have Crush On You', hope you're doing well. I've been meaning to share something important with you. Over the time we've spent together, I've come to realize how much I cherish our connection. I truly like you and have developed deep feelings for you. You mean a lot to me, and I just wanted to let you know that I love you."
     }, {
         title: "I Have Crush On You!!",
